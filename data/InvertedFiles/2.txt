@@ -1,0 +1,3 @@
+I Love MapReduce
+I like NBA
+I love Hadoop
